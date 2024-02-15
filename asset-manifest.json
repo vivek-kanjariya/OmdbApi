@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OmdbApi/static/css/main.a9dcf9d1.css",
+    "main.js": "/OmdbApi/static/js/main.8b78924c.js",
+    "static/js/592.6ca9865d.chunk.js": "/OmdbApi/static/js/592.6ca9865d.chunk.js",
+    "index.html": "/OmdbApi/index.html",
+    "main.a9dcf9d1.css.map": "/OmdbApi/static/css/main.a9dcf9d1.css.map",
+    "main.8b78924c.js.map": "/OmdbApi/static/js/main.8b78924c.js.map",
+    "592.6ca9865d.chunk.js.map": "/OmdbApi/static/js/592.6ca9865d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9dcf9d1.css",
+    "static/js/main.8b78924c.js"
+  ]
+}
